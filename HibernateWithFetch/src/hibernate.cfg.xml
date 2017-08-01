@@ -9,7 +9,7 @@
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 
 		<!-- Assume world is the database name -->
-		<property name="hibernate.connection.url">jdbc:mysql://localhost/world</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost/testHibernate</property>
 		<property name="hibernate.connection.username">admin</property>
 		<property name="hibernate.connection.password">admin</property>
 		
